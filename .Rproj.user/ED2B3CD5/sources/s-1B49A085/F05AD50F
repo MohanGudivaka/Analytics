@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607830153444.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F05AD50F",
+    "lastKnownWriteTime" : 1607858226,
+    "last_content_update" : 1607858227514,
+    "path" : "C:/Users/HP/Desktop/Materials/projects/Twitters/project.r",
+    "project_path" : "project.r",
+    "properties" : {
+        "cursorPosition" : "7,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
